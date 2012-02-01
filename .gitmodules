@@ -7,3 +7,24 @@
 [submodule "bundle/snipmate"]
 	path = bundle/snipmate
 	url = http://github.com/msanders/snipmate.vim.git
+[submodule "bundle/supertab"]
+	path = bundle/supertab
+	url = http://github.com/ervandew/supertab
+[submodule "bundle/nerdtree"]
+	path = bundle/nerdtree
+	url = http://github.com/scrooloose/nerdtree
+[submodule "bundle/delimitMate"]
+	path = bundle/delimitMate
+	url = http://github.com/Raimondi/delimitMate
+[submodule "bundle/checksyntax"]
+	path = bundle/checksyntax
+	url = http://github.com/tomtom/checksyntax_vim
+[submodule "bundle/vim-files"]
+	path = bundle/vim-files
+	url = http://github.com/msanders/vim-files
+[submodule "bundle/surround"]
+	path = bundle/surround
+	url = http://github.com/tpope/vim-surround
+[submodule "bundle/nerdcommenter"]
+	path = bundle/nerdcommenter
+	url = https://github.com/scrooloose/nerdcommenter
